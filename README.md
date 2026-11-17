@@ -39,5 +39,4 @@ analysis performed in Vivado.
 No physical FPGA board used.
 Simulation-based project.
 
-## Author
-Your GitHub username
+
