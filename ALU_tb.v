@@ -38,7 +38,7 @@ initial begin
 
 a = 4'd8;
 b = 4'd4;
-#10;
+
 for(i=0;i<8;i=i+1)begin
     sel = i[2:0];
     #10;
